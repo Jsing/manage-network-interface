@@ -1,2 +1,7 @@
 # ManageNetworkInterface
-This give you library to manage your NICs(network interface adapters), for example IP, Subnet Mask, Gateway etc.. 
+
+You can configure network interface properties Programmatically!
+
+Both static and dynamic are configurable.
+
+If it help you, do start it!
